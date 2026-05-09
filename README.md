@@ -244,13 +244,6 @@ java -cp out OscarAttack
 
 ---
 
-## 👤 Author
-
-**Esmail Emad El-Din Mohamed**
-Cairo University — Computer Science & Artificial Intelligence
-
----
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
