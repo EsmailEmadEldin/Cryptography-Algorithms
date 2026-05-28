@@ -244,6 +244,13 @@ java -cp out OscarAttack
 
 ---
 
+## 👤 Author
+
+- [Esmail Emad El-Din](https://github.com/EsmailEmadEldin)
+- [Yousef Tarek](https://github.com/yousseftarekk265)
+
+---
+
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
